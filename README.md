@@ -2,14 +2,14 @@ Esse foi um exercício realizado durante a disciplina de Lógica Aplicada à Com
 
 São aceitos os símbolos como entrada:
 
-- T - Verdadeiro
-- F - Falso
-- ^ - [Conjunção](https://pt.wikipedia.org/wiki/Conjun%C3%A7%C3%A3o_l%C3%B3gica) (operador AND)
-- v - [Disjunção](https://pt.wikipedia.org/wiki/Disjun%C3%A7%C3%A3o_l%C3%B3gica) (operador OR)
-- ~ - [Negação](https://pt.wikipedia.org/wiki/Negação_lógica) (operador NOT)
-- -> - [Implicação](https://pt.wikipedia.org/wiki/Implica%C3%A7%C3%A3o)
-- <-> - [Bicondicional](https://pt.wikipedia.org/wiki/Conectivo_l%C3%B3gico_bicondicional)
-- ( ) - Parentização
+- `T` - Verdadeiro
+- `F` - Falso
+- `^` - [Conjunção](https://pt.wikipedia.org/wiki/Conjun%C3%A7%C3%A3o_l%C3%B3gica) (operador AND)
+- `v` - [Disjunção](https://pt.wikipedia.org/wiki/Disjun%C3%A7%C3%A3o_l%C3%B3gica) (operador OR)
+- `~` - [Negação](https://pt.wikipedia.org/wiki/Negação_lógica) (operador NOT)
+- `->` - [Implicação](https://pt.wikipedia.org/wiki/Implica%C3%A7%C3%A3o)
+- `<->` - [Bicondicional](https://pt.wikipedia.org/wiki/Conectivo_l%C3%B3gico_bicondicional)
+- `( )` - Parentização
 
 Essa calculadora considera a precedência dos operadores e os parêntes durante o cálculo da expressão.
 
